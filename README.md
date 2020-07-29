@@ -7,3 +7,6 @@
 
 # TinNews Architecture
 ![Image of Architecture](https://github.com/alex0527/TinNews/blob/master/TinNews%20Structure.png)
+
+# MVVM
+![Image of MVVM](https://github.com/alex0527/TinNews/blob/master/MVVM.png)
